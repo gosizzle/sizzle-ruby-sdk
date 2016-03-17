@@ -19,3 +19,8 @@ Testing
 To run the tests,
 
     rake test
+
+Contributing
+------------
+
+Contributions are welcome!!!
