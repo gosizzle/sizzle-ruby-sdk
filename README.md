@@ -2,6 +2,7 @@ S!zzle Ruby SDK
 =================
 
 [![Build Status](https://travis-ci.org/gosizzle/sizzle-ruby-sdk.svg?branch=master)](https://travis-ci.org/gosizzle/sizzle-ruby-sdk)
+[![Code Climate](https://codeclimate.com/github/gosizzle/sizzle-ruby-sdk/badges/gpa.svg)](https://codeclimate.com/github/gosizzle/sizzle-ruby-sdk)
 
 This is a Ruby package for accessing the S!zzle API.
 
